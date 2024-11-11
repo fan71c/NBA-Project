@@ -1,2 +1,3 @@
 /.idea
-./notebooks/database.db
+database.db
+*.csv
